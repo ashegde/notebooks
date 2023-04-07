@@ -1,2 +1,2 @@
 # notebooks
-repository for random notebooks, mostly for learning
+repository for random notebooks, mostly for self studying
