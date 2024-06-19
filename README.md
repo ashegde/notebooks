@@ -1,2 +1,2 @@
 # notebooks
-repository for random notebooks, mostly for self studying
+repository for random notebooks and scratch work, mostly for self studying
